@@ -175,9 +175,9 @@ PRODUCT_PACKAGES += \
     ueventd.mata.rc
 
 # IPv6 tethering
-PRODUCT_PACKAGES += \
-    ebtables \
-    ethertypes
+#PRODUCT_PACKAGES += \
+#    ebtables \
+#    ethertypes
 
 # IRQ
 PRODUCT_COPY_FILES += \
